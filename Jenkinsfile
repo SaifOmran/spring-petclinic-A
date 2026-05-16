@@ -1,7 +1,7 @@
 @Library('shared-lib-test@main') _
 
 buildApp(
-    PORT: '8071'
+    PORT: '8888'
     REPO_URL: 'https://github.com/abdallanasr/spring-petclinic-A.git'
     IMAGE_NAME: 'service-a'
     IMAGE_TAG: 'latest'
