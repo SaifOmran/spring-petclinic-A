@@ -1,4 +1,4 @@
-@Library('shared-lib@main') _
+@Library('shared-lib-test@main') _
 
 buildApp(
     PORT: '8071',
